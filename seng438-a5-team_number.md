@@ -17,17 +17,17 @@ The team decided to use the C-SFRAT program and convert the data2 to an xls file
 
 The original data imported can be seen here:
 ![alt text](ReportMedia/importedData.png)
-![alt text](ReportMedia\importedData2.png)
+![alt text](ReportMedia/importedData2.png)
 The failure rate does not decrease as time goes on. The patterns remain consistent. 
 
 The graph generated data with the C and F covariate. 
-![alt text](ReportMedia\covariateAll.png)
+![alt text](ReportMedia/covariateAll.png)
 
 As a group we then analyzed the best fit for the graph by examining the critic mean. The closer the critic mean is to 1.000 the more accurate it is to the imported data. 
-![alt text](ReportMedia\criticMean.png)
+![alt text](ReportMedia/criticMean.png)
 
 Analyzing the failure intesity graph we can observe that the failure rate remains consistent. This demonstrates that the data set does not have strong reliability. growth. 
-![alt text](ReportMedia\failureIntensityAnalysis.png)
+![alt text](ReportMedia/failureIntensityAnalysis.png)
 
 # Assessment Using Reliability Demonstration Chart 
 
