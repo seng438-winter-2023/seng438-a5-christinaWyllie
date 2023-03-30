@@ -23,7 +23,7 @@ The failure rate does not decrease as time goes on. The patterns remain consiste
 The graph generated data with the C and F covariate. 
 ![alt text](ReportMedia/covariateAll.png)
 
-As a group we then analyzed the best fit for the graph by examining the critic mean. The closer the critic mean is to 1.000 the more accurate it is to the imported data. 
+As a group we then analyzed the best fit for the graph by examining the critic mean. The closer the critic mean is to 1.000 the more accurate it is to the imported data. The 2 models chosen were the geometric and the discrete weibull type . 
 ![alt text](ReportMedia/criticMean.png)
 
 Analyzing the failure intesity graph we can observe that the failure rate remains consistent. This demonstrates that the data set does not have strong reliability. growth. 
