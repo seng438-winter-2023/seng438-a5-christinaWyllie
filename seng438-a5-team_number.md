@@ -16,7 +16,7 @@ The purpose of this lab is to learn about software reliability and the tool avai
 The team decided to use the C-SFRAT program and convert the data2 to an xls file to be able to analyze it. 
 
 The original data imported can be seen here:
-![alt text](ReportMedia\importedData.png)
+![alt text](ReportMedia/importedData.png)
 ![alt text](ReportMedia\importedData2.png)
 The failure rate does not decrease as time goes on. The patterns remain consistent. 
 
